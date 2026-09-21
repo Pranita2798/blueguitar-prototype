@@ -1,0 +1,54 @@
+30F08065-D445-41A2-B05D-0459D051EC7C.jpeg
+  dominant: #fff9ec 42%  #ffecd1 33%  #fbd8b1 5%  #2a0c05 2%
+  accent:   #2a0c05  #0f2a35  #190505
+5AB36FB1-8B04-4628-AD93-19569D6229C9.jpeg
+  dominant: #d9d8c9 18%  #e6e4d8 14%  #d5cab4 13%  #ebeced 10%
+  accent:   #2e58c5  #2752b9  #1c48b3
+90A93E54-98EA-4798-9683-3C353EF98C7C.jpeg
+  dominant: #e6ceb1 31%  #e8dbca 11%  #dbb389 9%  #eee3d5 9%
+  accent:   #dbb389  #e2ba8f  #d5a87a
+Dempster Animated 2.webp
+  dominant: #f8f9f6 59%  #0b0b0b 8%  #2e2b2b 3%  #0e102f 2%
+  accent:   #0e102f  #11164f  #272c73
+IMG_2386.jpeg
+  dominant: #141111 12%  #f7f5f6 7%  #cdb290 4%  #302819 3%
+  accent:   #302819  #8f6e33  #8b5412
+IMG_3245.jpeg
+  dominant: #2e2b31 14%  #30344b 7%  #4d566a 6%  #13121a 6%
+  accent:   #30344b  #181927  #576f8a
+IMG_5199.jpeg
+  dominant: #fefefe 60%  #020203 14%  #19449a 7%  #133b8d 3%
+  accent:   #19449a  #133b8d  #133172
+IMG_7314.jpeg
+  dominant: #ebd5b3 6%  #70a7d1 5%  #704c2c 5%  #318ecf 4%
+  accent:   #014489  #318ecf  #704c2c
+IMG_7350.jpeg
+  dominant: #f4efce 30%  #f8f9e9 16%  #f7d206 4%  #cfe7b3 4%
+  accent:   #f7d206  #d26c06  #f6e331
+IMG_8407.jpeg
+  dominant: #050d14 17%  #ebd5b9 10%  #0d1a27 8%  #494d51 6%
+  accent:   #050d14  #0d1a27  #08274b
+IMG_8418.jpeg
+  dominant: #09cafe 24%  #f9f8fa 15%  #04b7fa 14%  #4dd8fb 4%
+  accent:   #09cafe  #04b7fa  #4dd8fb
+IMG_8423.jpeg
+  dominant: #302617 5%  #906d4c 5%  #352d27 4%  #6f5237 4%
+  accent:   #302617  #906d4c  #271b10
+IMG_8425.jpeg
+  dominant: #03080f 15%  #77c7c4 13%  #0496a5 7%  #02346b 5%
+  accent:   #03080f  #0496a5  #77c7c4
+IMG_8440.jpeg
+  dominant: #edf3f7 18%  #cbd8e6 15%  #d8e5f0 12%  #0cc9fe 8%
+  accent:   #0cc9fe  #06b6fa  #2ccdfa
+IMG_9507.jpeg
+  dominant: #040817 11%  #05112b 8%  #0108f2 5%  #056fed 4%
+  accent:   #040817  #05112b  #0108f2
+result 1.jpeg
+  dominant: #fefefe 59%  #f50b03 4%  #fd2e06 3%  #f9af8d 2%
+  accent:   #f50b03  #fd2e06  #025297
+result.jpeg
+  dominant: #05040a 41%  #09092e 4%  #070b4e 2%  #040e71 2%
+  accent:   #05040a  #09092e  #040e71
+result.png
+  dominant: #010101 55%  #498ef8 3%  #2f2b30 2%  #3174f4 2%
+  accent:   #498ef8  #3174f4  #358cf8
